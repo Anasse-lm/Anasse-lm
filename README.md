@@ -10,7 +10,7 @@ I am a software developer with a Bachelor's degree in Computer Science, speciali
 
 ## Portfolio 🌐
 
-Explore my portfolio and projects: [Anasse Lamrabti's Portfolio](https://anasse-lm.github.io/portfolio.github.io/)
+Explore my portfolio and projects: [My Portfolio](https://anasse-lm.github.io/portfolio.github.io/)
 
 ---
 
@@ -27,73 +27,21 @@ Explore my portfolio and projects: [Anasse Lamrabti's Portfolio](https://anasse-
 - **Project Name**:  alx-system_engineering-devops
   - Technologies Used: Shell
   - Repository Link: [Project Repository](https://github.com/Anasse-lm/alx-system_engineering-devops)
+- **Project Name**:  simple_shell
+  - Technologies Used: C
+  - Repository Link: [Project Repository](https://github.com/Anasse-lm/simple_shell)
 
 ### Group 2: Personal Projects
 
-- **Project Name**: Project Description
-  - Technologies Used: List of technologies
+- **Project Name**: Ecommerce Web application
+  - Technologies Used: Spring boot - Thymeleaf - MySql
   - Repository Link: [Project Repository](https://github.com/Anasse-lm/project-repo)
+- **Project Name**: Project Description
+  - Technologies Used: ReactJs - NodeJs
+  - Repository Link: [Project Repository](https://github.com/Anasse-lm/Course-Reader )
 
 ---
 
 ## Contact 📧
 
-Feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com) for collaboration or inquiries.
-
----
-
-<style>
-/* Styling for the README.md file */
-
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f9f9f9;
-    margin: 0;
-    padding: 0;
-}
-
-h1 {
-    font-size: 2.5em;
-    color: #333;
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 10px;
-    margin-bottom: 20px;
-}
-
-h2 {
-    font-size: 1.8em;
-    color: #333;
-    margin-top: 30px;
-}
-
-p {
-    color: #555;
-    margin-bottom: 15px;
-}
-
-img {
-    max-width: 100%;
-    border-radius: 50%;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-a {
-    color: #007bff;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-ul {
-    margin-top: 10px;
-    margin-bottom: 20px;
-}
-
-ul li {
-    margin-bottom: 8px;
-}
-
-</style>
+Feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/anasse-lamrabti-320a67220/) for collaboration or inquiries.
