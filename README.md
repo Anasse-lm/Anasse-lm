@@ -1,6 +1,7 @@
 # Anasse Lamrabti 👨‍💻
 
-![Anasse Lamrabti](myimage.jpg)
+<img src="myimage.jpg" alt="Anasse Lamrabti" width="300" height="300">
+
 
 ---
 
