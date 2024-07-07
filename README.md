@@ -1,6 +1,6 @@
 # Anasse Lamrabti 👨‍💻
 
-![Anasse Lamrabti](profile-pic.jpg)
+![Anasse Lamrabti](myimage.jpg)
 
 ---
 
