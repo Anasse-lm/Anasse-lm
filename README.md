@@ -19,25 +19,41 @@ Explore my portfolio and projects: [My Portfolio](https://anasse-lm.github.io/po
 ### Group 1: ALX Projects
 
 - **Project Name**: alx-higher_level_programming 
+
   - Technologies Used: Python
+
   - Repository Link: [Project Repository](https://github.com/Anasse-lm/alx-higher_level_programming)
+
 - **Project Name**: alx-low_level_programming
+
   - Technologies Used: C
+
   - Repository Link: [Project Repository](https://github.com/Anasse-lm/alx-low_level_programming)
+
 - **Project Name**:  alx-system_engineering-devops
+
   - Technologies Used: Shell
-  - Repository Link: [Project Repository](https://github.com/Anasse-lm/alx-system_engineering-devops)
+
+   - Repository Link: [Project Repository](https://github.com/Anasse-lm/alx-system_engineering-devops)
+
 - **Project Name**:  simple_shell
+
   - Technologies Used: C
+
   - Repository Link: [Project Repository](https://github.com/Anasse-lm/simple_shell)
 
 ### Group 2: Personal Projects
 
 - **Project Name**: Ecommerce Web application
+
   - Technologies Used: Spring boot - Thymeleaf - MySql
+
   - Repository Link: [Project Repository](https://github.com/Anasse-lm/project-repo)
+
 - **Project Name**: Project Description
+
   - Technologies Used: ReactJs - NodeJs
+
   - Repository Link: [Project Repository](https://github.com/Anasse-lm/Course-Reader )
 
 ---
