@@ -50,7 +50,7 @@ Explore my portfolio and projects: [My Portfolio](https://anasse-lm.github.io/po
 
   - Repository Link: [Project Repository](https://github.com/Anasse-lm/project-repo)
 
-- **Project Name**: Project Description
+- **Project Name**: Course Reader
 
   - Technologies Used: ReactJs - NodeJs
 
